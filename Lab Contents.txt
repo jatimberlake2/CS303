@@ -1,0 +1,14 @@
+Lab 1     : Binary and Linear Search
+Lab 2     : Insertion Sort
+Lab 3     : Merge Sort
+Lab 4     : Heapsort
+Lab 5     : Quicksort 
+Lab 6     : NovelSort (and comparisons)
+Lab 7     : Binary Search Trees
+Lab 8     : Red Black Trees
+Lab 9     : HashMaps
+Lab 10    : Directed and Undirected Breadth First Search
+Lab 11 	  : Directed and Undirected Depth First Search
+Lab 12    : Graphs - Minimum Spanning Trees on Directed (Prim's)
+Lab 13 	  : Dijkstra's Single-Source Shortest Paths
+Final Lab : Final Lab - Binomial Coefficient (Recursive v Iterative)
