@@ -11,3 +11,5 @@ The actual .java files mentioned in the associated lab reports for each lab assi
 Initially, I made seperate files for the in-class and homework portions, delineated by an added "H" at the end of some file names, but that paradigm was abandoned in later projects.
 
 There was no lab report for the final lab.
+
+See "Lab Contents" for which lab (and associated file in the source code folder) contains which assignment.
